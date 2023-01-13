@@ -7,7 +7,7 @@ I intend to uppdate this project along as I learn new things in the courses for 
 ## Changelog:
 v.1.0 Basic working tic tac toe using HTML prompt and alert for the game input.
 
-###Future features
+### Future features
 
 1. Recognize when a game has ended.
 2. Swap from alert/prompt based input to a printed HTML file with hitboxes.
